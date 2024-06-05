@@ -7,7 +7,7 @@
 
 <div>
   
-[![SilvaSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silva-Sec&theme=highcontrast&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![SilvaSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silva-Sec&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Sec&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
