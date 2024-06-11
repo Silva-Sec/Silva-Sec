@@ -7,7 +7,7 @@
 <div>
   
 - 🔭 I’m currently working with Cyber Security Research.
-- 🌱 Currently learning a lot, specially in Cyber Sec field.
+- 🌱 Learning a lot, specially in Cyber Sec field.
 - 👯 I’m looking to collaborate on any cyber sec project.
 - 🤔 Going into programming, specially GoLang
 - 📫 How to reach me: @SilvaSec
