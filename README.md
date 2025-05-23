@@ -6,10 +6,10 @@
 
 <div>
   
-- 🔭 I’m currently working with Cyber Security Research.
+- 🔭 Independent Cyber Security Research.
 - 🌱 Learning a lot, specially in Cyber Sec field.
 - 👯 I’m looking to collaborate on any cyber sec project.
-- 🤔 Going into programming, specially GoLang and Python
+- 🤔 Going into programming, specially GoLang and Python.
 - 📫 How to reach me: @SilvaSec
 </div>
 <div>
